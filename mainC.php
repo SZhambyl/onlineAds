@@ -7,7 +7,7 @@
 			?>
 	<div class='logIn'>
 		<?php if (isset($_REQUEST['login']) && $_REQUEST['login']=='false'){?>
-				<div id='incorrect'>Your login or password are inncorrect</div>
+				<div id='incorrect'>Your login or password is inncorrect</div>
 		<?php }?>
 	 	<form onsubmit="return check2()" method='post' action='check.php' enctype='application/x-www-form-urlencoded'>
 				<table>

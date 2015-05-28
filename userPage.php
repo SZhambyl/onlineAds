@@ -12,7 +12,7 @@
 	$email = $_SESSION['email'];
 	echo "</br><input type='submit' name='delete' value='удалить'/></br></br>";
 	$userId = $_SESSION['ownerId'];
-	$query = "SELECT * FROM goods WHERE OwnerId='".$userId."'";
+	$query = "SELECT * FROM good WHERE OwnerId='".$userId."'";
 	$result = mysql_query($query);
 	$category = '';
 	$city = '';

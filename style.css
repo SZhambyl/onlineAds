@@ -489,11 +489,11 @@ a{
 }
 .Navigation li 	{
 	height: auto;
-	width: 150px;
+	width: 200px;
 	text-align: center;
 	list-style: none;
 	font:12px "Arial";
-	padding: 0;s
+	padding: 0;
 	margin: 0;
 	background-color: black;
 	border-radius: 3px;
@@ -522,7 +522,9 @@ a{
 	float:right;
 }
 .Navigation{
-	float:right;
+	margin-left:800px;
+	margin-top: -7px;
+	position:absolute;
 }
 #right{
 	margin-top: -10px;
