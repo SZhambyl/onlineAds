@@ -1,0 +1,579 @@
+#example{
+	width:100px;
+	height:200px;
+	background-color:red;
+}
+a{
+	text-decoration: none;
+}
+.smallPhoto{
+	height:100px;
+}
+.nameG{
+	font-size: 30px;
+	font-family: cursive;
+	color: red;
+}
+.price{
+	font-family: serif;
+	font-size: 20px;
+}
+.comment{
+	border:thin solid #ACACAC;
+	width:300px;
+}
+.nameG{
+	font-size: 30px;
+	font-family: cursive;
+	color: red;
+}
+.price{
+	font-family: serif;
+	font-size: 20px;
+}
+.comment{
+	border:thin solid #ACACAC;
+	width:300px;
+}
+
+
+#div{
+	background-color: red;
+}
+/*for registration field*/
+#nameField{
+	padding:10px;
+	width:170px;
+	border-radius: 5px;
+	float:right;
+}
+#passwordField{
+	padding:10px;
+	width:170px;
+	border-radius: 5px;
+	float:right;
+}
+#confPasswordField{
+	padding:10px;
+	width:170px;
+	border-radius: 5px;
+	float:right;
+}
+#checkField{
+	padding:10px;
+	margin-right:40px;
+	border-radius: 5px;
+	float:right;
+}
+#emaill{
+	padding:5px;
+	width:365px;
+}
+#email:active #nameField{
+	background-color: red;
+}
+#passwordd{
+	padding:5px;
+	width: 365px;
+}
+#confPasswordd{
+	padding:5px;
+	width: 365px;
+}
+#checkk{
+	padding:5px;
+	width: 365px;
+}
+#buttons{
+	padding:10px;
+	margin-left: 180px;
+	width: 200px;
+}
+#em{
+	float:right;
+	padding:10px;
+}
+#pass{
+	float:right;
+	padding:10px;
+}
+#conf{
+	float:right;
+	padding:10px;
+}
+#checked{
+	float:right;
+	padding:10px;
+}
+#alert1, #alert2, #alert3, #alert4, #alert5, #alert6, #alert7, #alert8, #alert9{
+	font-size: 11px;
+	color: #C91414;
+	font-family: sans-serif;
+	width:120px;
+	padding:5px;
+}
+/*------------------------------------------------------------------*/
+/*for ADD field*/
+#nameBox{
+	padding:5px;
+	width:500px;
+}
+#selectBox{
+	padding:5px;
+	width:500px;
+}
+#photo1Box{
+	padding:5px;
+	width:500px;
+}
+#photo2Box{
+	padding:5px;
+	width:500px;
+}
+#photo3Box{
+	padding:5px;
+	width:500px;
+}
+#photo4Box{
+	padding:5px;
+	width:500px;
+}
+#cityBox{
+	padding:5px;
+	width:500px;
+}
+#priceBox{
+	padding:5px;
+	width:500px;
+}
+#userBox{
+	padding:5px;
+	width:500px;
+}
+#loginBox{
+	padding:5px;
+	width:500px;
+}
+#phoneBox{
+	padding:5px;
+	width:500px;
+}
+#areaBox{
+	padding:5px;
+	width:500px;
+	height: 60px;
+}
+#checkBoxx{
+	padding:5px;
+	width: 460px;
+}
+#buttonBox{
+	padding:5px;
+	margin-left: 170px;
+	width: 300px;
+}
+
+
+#ngood{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#selected{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#photo1{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#photo2{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#photo3{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#photo4{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#city{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#userName{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#login{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#price{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#phone{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#textA{
+	padding:10px;
+	width:300px;
+	border-radius: 5px;
+	float:right;
+}
+#isChecked{
+	padding:10px;
+	margin-right:80px;
+	border-radius: 5px;
+	float:right;
+}
+
+
+#nameLabel{
+	float:right;
+	padding:10px;
+}
+#selectLabel{
+	float:right;
+	padding:10px;
+}
+#photo1Label{
+	float:right;
+	padding:10px;
+}
+#photo2Label{
+	float:right;
+	padding:10px;
+}
+#photo3Label{
+	float:right;
+	padding:10px;
+}
+#photo4Label{
+	float:right;
+	padding:10px;
+}
+#cityLabel{
+	float:right;
+	padding:10px;
+}
+#priceLabel{
+	float:right;
+	padding:10px;
+}
+#userLabel{
+	float:right;
+	padding:10px;
+}
+#loginLabel{
+	float:right;
+	padding:10px;
+}
+#phoneLabel{
+	float:right;
+	padding:10px;
+}
+#areaLabel{
+	float:right;
+	padding:10px;
+}
+#checkLabel{
+	float:right;
+	padding:5px;
+}
+
+/*------------------------------------------------------------------*/
+#result{
+	color:red;
+}
+/*-----------------------------------------------------------------*/
+.result{
+	margin-left: 1px;
+	margin-top:0px;
+	background-color: white;
+	position:absolute;
+	padding:0px;
+	width: 169px;
+	border:1px solid #E1E1E1;
+}
+.leaf{
+	list-style: none;
+	border-bottom:1px solid #E1E1E1;
+}
+/*-------------------------------------------for Search---------------------------------------------*/
+#boxSearch{
+	width:800px;
+	margin-left:300px;
+	background-color: #FFD25E;
+	border:1px solid #E19918;
+	border-radius: 5px
+}
+#inputName{
+	float: left;
+	padding:20px;
+}
+#option{
+	float: left;
+	padding:20px;
+}
+
+#first{
+
+}
+#second{
+
+}
+#selectedBox{
+	float: left;
+	padding:20px;
+}
+#searchButton1{
+	clear: left;
+	padding:20px;
+}
+#together{
+	clear: right;
+	padding:10px;
+}
+/*----------------------------------for Result-------------------------------------------*/
+.things{
+	width:800px;
+	margin-left:300px;
+	border:1px solid #ACACAC;
+	height:120px;
+}
+#date{
+	padding-top:50px;
+	float:left;
+	width:150px;
+}
+#photoP{
+	padding-top: 10px;
+	float:left;
+	width:250px;
+}
+#nameP{
+	padding-top: 10px;
+	float:left;
+	width:300px;
+}
+#priceP{
+	padding-top: 50px;
+	float:left;
+	width:100px;
+}
+/*------------------------------------------for Blocks------------------------------------------*/
+.blocks{
+	width: 1000px;
+	margin-left: 200px;
+}
+
+#firstBlock{
+	width:700px;
+	float:left;
+}
+.bigPhoto{
+	width:500px;
+}
+#nameBlock{
+	padding:20px;
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+#kzt{
+	padding:20px;
+	font-size: 20px;
+}
+#photoBlock{
+	padding:10px;
+	padding-left: 95px;
+}
+#commentBlock{
+	padding:30px;
+	padding-left:95px;
+	height: 400px;
+}
+#photo2Block{
+	padding:10px;
+	padding-left:95px;
+}
+#photo3Block{
+	padding:10px;
+	padding-left:95px;
+}
+#photo4Block{
+	padding:10px;
+	padding-left:95px;
+}
+
+#secondBlock{
+	float:left;
+	width:300px;
+}
+#priceBlock{
+	background-color: #CAFFB5;
+	padding:30px;
+	font-size: 40px;
+	font-family: sans-serif;
+	font-weight: bold;
+	border-radius: 5px;
+}
+#phoneBlock{
+	background-color: #DBFFFB;
+	padding:30px;
+	font-size: 25px;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+#userNameBlock{
+	background-color: #DBFFFB;
+	padding:30px;
+	font-size: 25px;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+#loginBlock{
+	padding:30px;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+#cityBlock{
+	padding:30px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+/*----------------------------------Admin php-------------------------------------*/
+.thingsAdmin{
+	background-color: #E9E9E9;
+	width:700px;
+	border:1px solid grey;
+	margin-left:400px;
+	border-radius: 10px;
+}
+.smallPhotoAdmin{
+	width:100px;
+}
+.bigPhotoAdmin{
+	width:300px;
+}
+
+
+.Navigation li ul{
+	display: none;
+}
+.Navigation li 	{
+	height: auto;
+	width: 150px;
+	text-align: center;
+	list-style: none;
+	font:12px "Arial";
+	padding: 0;s
+	margin: 0;
+	background-color: black;
+	border-radius: 3px;
+    margin-left:10px;
+    margin-top:-12px;
+}
+
+.Navigation a{							
+	padding:13px;
+	text-decoration: none; 
+	color:white;
+	display: block;
+}
+.Navigation li ul{
+	display: none;
+	height: auto;									
+	margin-left: -11px;
+	padding: 0;		
+}				
+
+.Navigation li:hover ul{
+	display: block;
+}
+
+.header2{
+	float:right;
+}
+.Navigation{
+	float:right;
+}
+#right{
+	margin-top: -10px;
+	float:right;
+}
+.tovar{
+	padding-top:15px;
+}
+.gorod{
+	padding:15px;
+}
+.categoryName{
+	font-size: 30px;
+	font-family: serif;
+	color:#595959;
+	text-align: center;
+	width:250px;
+}
+#mainDiv{
+	margin-left: 0px;
+	width:850px;
+}
+#information{
+	margin-top: 300px;
+	float:right;
+	width:300px;
+	color:#082700;
+	background-color: #66B75B;
+	border:1px solid #B8B8B8;
+}
+#registrDiv{
+	margin-left:355px;
+}
+.forHeader{
+	color:#99CB85;
+}
+
+
+
+/*-------------------------add successful-------------------*/
+#table{
+	margin-left:160px;
+	color:#499A32;
+	font-size: 25px;
+}
+#forAdmin{
+	margin-left: 209px;
+	position: fixed;
+	padding:20px;
+	width:150px;
+	background-color: lightgrey;
+	border:1px black solid;
+	border-radius: 5px;
+}
